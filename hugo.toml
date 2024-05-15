@@ -1,4 +1,4 @@
-baseurl = "http://www.me.blazemind.org"
+baseurl = "http://me.blazemind.org"
 title = "blazemind"
 theme = "hugo-coder"
 languagecode = "en"
