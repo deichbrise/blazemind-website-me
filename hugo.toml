@@ -60,10 +60,10 @@ style = "github-dark"
   url = "https://de.linkedin.com/in/pascal-stammer-34154aaa"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
 [[menu.main]]
   name = "CV"
   weight = 2
