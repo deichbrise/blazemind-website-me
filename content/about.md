@@ -5,51 +5,51 @@ date = "2024-05-09"
 aliases = ["about-us", "about-me", "contact"] 
 author = "Pascal Stammer" 
 +++
-Hi lieber Besucher,
+Hallo lieber Besucher,
 
-ich bin Pascal, Principal Engineer & Data / AI Specialist und ich möchte dich gerne auf meiner persönlichen Webseite und Blog willkommen heißen. Hier erzähle ich etwas über mich sowie meine Reise in der Welt von Software, Data und AI und versuche euch daran teilhaben zu lassen.
+ich bin Pascal, Principal Engineer & Data / AI Specialist, und ich freue mich, dich auf meiner persönlichen Webseite und in meinem Blog begrüßen zu dürfen. Hier teile ich Einblicke in meine Welt der Software, Daten und Künstlichen Intelligenz und nehme dich gerne mit auf meine Reise.
 
 ## Persönliches
-Ich bin gebohren in Bremerhaven, einer kleinen Stadt an der Nordsee. Aufgewachsen bin ich in einem kleinen Vorort.
-Neben der Schule habe ich mich intensiv dem Leistungssport Schwimmen verschrieben und habe meine halbe Kindheit im Schwimmbad verbracht. Ich habe an Deutschen Meisterschaften und großen internationalen Wettbewerben teilgenommen, war Mitgleid im Landeskader und Sportstipendiat der Sparkasse.
+Ich bin in Bremerhaven geboren, einer kleinen Stadt an der Nordsee, und wuchs in einem Vorort auf. Während meiner Schulzeit widmete ich mich intensiv dem Leistungssport Schwimmen und verbrachte einen Großteil meiner Kindheit im Schwimmbad. Ich nahm an Deutschen Meisterschaften und bedeutenden internationalen Wettkämpfen teil, war Mitglied im Landeskader und erhielt ein Sportstipendium der Sparkasse.
 
-Ich habe mich schon sehr früh für Technik und Naturwissenschaften interessiert. Ich habe mich unter anderem einem Projekt im Rahmen des "2K-Kriteriums" gewidmet, in dem ich sowohl auf physisches als auch rein theoretisches Modell zur Wärmeverteilung um Seekabel entwickelt habe. Dafür habe ich mir selbständig nötiges Wissen rund um mathematische Simulation und partielle Differentialsgleichungen angeeignet.
+Schon früh interessierte ich mich für Technik und Naturwissenschaften. Ein Projekt im Rahmen des "2K-Kriteriums" faszinierte mich besonders, bei dem ich sowohl physische als auch theoretische Modelle zur Wärmeverteilung um Seekabel entwickelte. Dafür eignete ich mir eigenständig Kenntnisse in mathematischer Simulation und partiellen Differentialgleichungen an.
 
-Noch heute suche ich mir ständig neue Herausforderungen an denen ich wachsen kann. Ich liebe komplexe Probleme, für deren Lösung ich mich neues Wissen erarbeiten muss. Ich lese viel und durch alle Genres querbeet. 
+Auch heute suche ich ständig nach neuen Herausforderungen, an denen ich wachsen kann. Ich liebe komplexe Probleme, die mich dazu zwingen, neues Wissen zu erlangen. Meine Leselust erstreckt sich dabei über alle Genres.
 
-Ich liebe die gutes Essen und Kochen, am liebsten Gerichte aus Italien oder Asien. Ich liebe guten Wein und mein Lieblingsreiseland ist Italien. Verliebt habe ich mich in Apulien, den Stiefelabsatz, der inzwischen durch einen James Bond Film gar nicht mehr so unbekannt ist.
-Ich lebe mit meiner Freundin in Herford, was in der Nähe von Bielefeld, der Stadt die es gar nicht gibt, liegt.
+Gutes Essen und Kochen sind meine Leidenschaft, vor allem Gerichte aus Italien oder Asien. Ein guter Wein ist für mich ein Genuss, und mein Lieblingsreiseland ist Italien. Besonders verliebt habe ich mich in Apulien, den Stiefelabsatz, der durch einen James-Bond-Film mittlerweile nicht mehr so unbekannt ist. Ich lebe mit meiner Freundin in Herford, in der Nähe von Bielefeld, der Stadt, die es angeblich nicht gibt.
 
 ## Der Beginn meiner Reise in die IT
 
-Selbstständiges Lehrnen zog sich durch mein gesamtes Leben. Meine ersten Berührungen mit der Programmierung machte ich im Alter von 11 Jahren und brachte mir selbstständig C#, HTML, CSS und JavaScript bei. Danach folgten PHP, VBA und Java. Ich habe jahrelang die Schulwebseite auf TYPO3-Basis betreut und weiterentwickelt. Bereits mit 18 Jahren, nach einem FÖJ am Alfred Wegener Institut, machte ich mich als freiberuflicher Webentwickler selbstständig und konnte meine Leidenschaft weiter vertiefen.
-2015 begann ich mein Studium "Cognitive Science" an der Universität Osnabrück. Die dort vermittelten Grundlagen in Mathematik, Informatik, KI und Machine Learning bildeten die Basis für meine weitere Profession.
+Selbstständiges Lernen begleitet mich schon mein ganzes Leben. Meine ersten Schritte in der Programmierung machte ich im zarten Alter von 11 Jahren und eignete mir eigenständig C#, HTML, CSS und JavaScript an. Später kamen PHP, VBA und Java hinzu. Über Jahre hinweg habe ich die Schulwebseite auf Basis von TYPO3 betreut und ständig weiterentwickelt. Bereits mit 18 Jahren, nach einem Freiwilligen Ökologischen Jahr am Alfred Wegener Institut, habe ich mich als freiberuflicher Webentwickler selbstständig gemacht und meine Leidenschaft vertieft.
+
+Im Jahr 2015 begann ich mein Studium in "Kognitive Wissenschaften" an der Universität Osnabrück. Die dort erworbenen Kenntnisse in Mathematik, Informatik, KI und maschinellem Lernen legten den Grundstein für meine weitere berufliche Entwicklung.
 
 ## Die Schwerpunkte meiner Arbeit
 
-Ich befasse mich seit 2015 mit der Integration von ML in klassische Software und Softwareentwicklungsmethoden. ML ist für mich nur ein Werkzeug für die Lösung einer bestimmten Kathegorie von Problemen. Genauso wie klassische Software auch unterliegt ML Software einem Lebenszyklus der sich aber bestimmten Aspekten unterscheidet. Zusätzlich zum Programmieren der eigentlichen Lösung kommt in den meisten Fällen noch das hoch-iterative Experimentieren mit verschiedenen Algorithmen, Daten und Datentransformationen hinzu. Wurde eine gute Kombination von Daten, Transformation und Algorithmus gefunden, so muss das ML Modell initial und kontinuierlich im produktiven System trainiert werden. Heute nennt sich das in Anlehnung an DevOps MLOps.
-Die Landschaft für die Entwicklung und den Betrieb muss dementsprechend um weitere Werkzeuge und Prozesse ergänzt werden, damit man KI / ML im unternehmerischen Kontext produktiv einsetzen kann.
-Zusätzlich dazu benötigt ML qualitativ hochwertige Daten. Meine Erfahrung zeigt, dass gerade in industriellen Kontexten, die Daten zunächst integriert, gesammelt, aufbereitet und auf ihre Qualität überprüft werden müssen, bevor auf ihnen sinnvolle Modelle trainiert werden können. Da die Prognoseleistung sensible gegen Anomalien in den Daten sein kann, benötigen wir desweiteren auch Werkzeuge um die Qualität der Daten kontinuierlich überprüfen zu können.
+Seit 2015 beschäftige ich mich intensiv mit der Integration von Machine Learning in traditionelle Software und Softwareentwicklungsmethoden. Für mich ist ML lediglich ein Werkzeug zur Lösung spezifischer Probleme, ähnlich wie klassische Software. Jedoch unterliegt ML-Software einem Lebenszyklus, der sich in einigen Aspekten von herkömmlicher Software unterscheidet.
 
-Mein Tätigkeitsschwerpunkt war also in den letzten Jahren Design, Planung und Umsetzung datengetriebener skalierbarer Softwarelösungen, der Aufbau einer Landschaft für MLOps, die Integration von KI / ML in die Applikationen sowie die Integration von Fremdsystemen.
-Dabei habe war ich federführend verantwortlich im Aufbau einer ganzheitlichen Strategie für die Entwicklung und den Betrieb solcher Applikationen mit modernen Werkzeugen und Technologien. 
+Zusätzlich zum eigentlichen Programmieren der Lösung erfordert ML oft ein hochiteratives Experimentieren mit verschiedenen Algorithmen, Daten und Datentransformationen. Sobald eine optimale Kombination von Daten, Transformationen und Algorithmen gefunden ist, muss das ML-Modell im produktiven System initial trainiert und kontinuierlich verbessert werden – heute bekannt als MLOps, in Anlehnung an DevOps. Die Entwicklung und der Betrieb von ML erfordern daher zusätzliche Werkzeuge und Prozesse, um KI/ML im unternehmerischen Kontext effektiv nutzen zu können.
 
-Außerdem bin ich erfahren im Aufbau und der Leitung von einzelnen Entwicklungsteams und Entwicklungsorganisationen.
+Hochwertige Daten sind für ML von entscheidender Bedeutung. Insbesondere in industriellen Umgebungen müssen Daten zunächst integriert, gesammelt, aufbereitet und auf ihre Qualität überprüft werden, bevor sinnvolle Modelle trainiert werden können. Aufgrund der Sensibilität von Vorhersagen für Anomalien in den Daten sind kontinuierliche Werkzeuge zur Überprüfung der Datenqualität unerlässlich.
 
-Beispielhafte Technologien, die ich eingeführt und selber verwendet habe:
+In den letzten Jahren lag mein Tätigkeitsschwerpunkt auf dem Design, der Planung und der Umsetzung skalierbarer, datengetriebener Softwarelösungen sowie dem Aufbau einer MLOps-Landschaft und der Integration von KI/ML in bestehende Anwendungen und Fremdsysteme. Ich war federführend bei der Entwicklung einer umfassenden Strategie für die Entwicklung und den Betrieb solcher Anwendungen mit modernen Werkzeugen und Technologien beteiligt.
+
+Darüber hinaus verfüge ich über umfangreiche Erfahrung im Aufbau und der Leitung von Entwicklungsteams und -organisationen.
+
+Beispielhafte Technologien, die ich eingeführt und verwendet habe, sind unter anderem:
 
 - Kubernetes, ArgoCD, Crossplane
 - Kafka, PostgreSQL, TimescaleDB
 - Prometheus, Grafana
 - Java, Python, Spring, Spring Boot, FastAPI
-- MLFlow, Sklearn, Tensorflow, PyTorch, RayTune
+- MLFlow, Scikit-learn, TensorFlow, PyTorch, Ray Tune
 
 ## Was mich ausmacht
-IT ist meine Passion und Leidenschaft. Ich besitze einen unstillbaren Wissensdurst und strebe danach mich kontinuierlich weiterzuentwickeln. Dabei lege ich zusätzlich Wert darauf, ständig über den Tellerrand hinauszuschauen, in vielen anderen Bereichen Wissen aufzubauen und in meine Arbeit zu integrieren. Komplexe Herausforderungen schrecken mich dabei nicht ab sondern motivieren mich zusätzlich. Dabei macht mich insbesondere mein analytisches und kritischen Denken sowie mein Durchhaltevermögen aus.
 
-Ich kann gut zwischen strategischer und taktischer Sichtweise wechseln, treffe schnell auf Basis einer analytischen Denkweise Entscheidungen und besitze eine gesunde Mischung aus Pragmatismus und Perfektionismus. Fokus ist mir sehr wichtig und dementsprechend fokussiere ich mich auf das wesentliche und organisiere auch meine bisherigen Teams so. 
+IT ist meine Leidenschaft und Passion. Mein Wissensdurst ist unersättlich, und ich strebe kontinuierlich nach persönlicher Weiterentwicklung. Dabei ist es mir wichtig, über den Tellerrand hinauszuschauen und Wissen aus verschiedenen Bereichen in meine Arbeit zu integrieren. Komplexe Herausforderungen motivieren mich zusätzlich. Mein analytisches Denken und mein Durchhaltevermögen zeichnen mich besonders aus.
 
-Ich führe mit Empathie, Empowerment, Sinn und Individualismus. Bedeutet, dass es mir am Herzen liegt, dass das Team den größeren Kontext versteht, für sich einen Sinn entdeckt, selbstständig arbeiten und jeder Spaß an der Arbeit hat und seine Passion ausleben kann.
-Das Bedarf die Entwicklung von Team-individuellen und autonomen Arbeitsweisen, Kommunikationsmethoden und Standards. Dabei bin ich disruptiv, werfe gerne auch gerne mal alles über Bord und probiere neue Sachen aus. Ich beführworte Fehler und vertrete verurtielungsfreie Kulturen. Mir ist es wichtig, dass frei über Fehler gesprochen werden kann, Probleme offen angesprochen werden und gemeinsam an Lösungen gearbeitet wird. Nur so kann ein Umfeld von langfristig hoher Wirksamkeit geschaffen werden.
+Ich beherrsche den Wechsel zwischen strategischer und taktischer Sichtweise und treffe auf Basis analytischer Überlegungen schnelle Entscheidungen. Dabei vereine ich Pragmatismus und Perfektionismus. Fokus ist für mich von zentraler Bedeutung, und ich organisiere meine Teams entsprechend.
 
-Ich will eine Umgebung schaffen in der schnell auf neue Situationen, Gegebenheiten und Anforderungen reagiert werden kann, kontinuierlich Mehrwert ausgeleifert wird und sich auf das wesentliche konzentriert werden kann. Innovation benötigt ein Umfeld, welches nicht mit den Strukturen von etablierten Unternehmen vergleichbar ist. Innovation erfordert ein kreatives und freies Umfeld, in dem schnell neue Dinge ausprobiert und von der Zielgruppe Feedback eingeholt werden können. Etablierte Unternehmen sind auf Kontinuität, Stabilität, Risikominimierung, Messbarkeit und Profitoptimierung ausgelegt.
+In der Führung setze ich auf Empathie, Empowerment, Sinn und Individualismus. Mir ist es wichtig, dass mein Team den größeren Zusammenhang versteht, Sinn in der Arbeit findet und eigenständig arbeitet. Jeder soll Spaß an der Arbeit haben und seine Leidenschaft ausleben können. Dafür entwickle ich individuelle und autonome Arbeitsweisen, Kommunikationsmethoden und Standards. Ich bin bereit, neue Wege zu gehen und neue Ideen auszuprobieren. Fehler sehe ich als Chance zur Verbesserung und fördere eine Kultur der Offenheit und Zusammenarbeit.
+
+Ich strebe danach, eine Umgebung zu schaffen, in der schnell auf neue Herausforderungen reagiert werden kann und kontinuierlich Mehrwert geschaffen wird. Innovation benötigt ein kreatives und freies Umfeld, in dem neue Ideen schnell ausprobiert und Feedback eingeholt werden kann. Im Gegensatz dazu sind etablierte Unternehmen auf Kontinuität, Stabilität, Risikominimierung und Profitoptimierung ausgerichtet.
