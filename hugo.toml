@@ -15,7 +15,7 @@ style = "github-dark"
 
 [params]
   author = "Pascal Stammer"
-  info = "Principal Engineer & Data / AI Specialist"
+  info = "Tech Lead & Data / AI Specialist"
   description = "Personal website"
   keywords = "blog,developer,personal"
   #avatarurl = "images/avatar.jpg"
