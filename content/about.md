@@ -7,7 +7,7 @@ author = "Pascal Stammer"
 +++
 Hallo lieber Besucher,
 
-ich bin Pascal, Principal Engineer & Data / AI Specialist, und ich freue mich, dich auf meiner persönlichen Webseite und in meinem Blog begrüßen zu dürfen. Hier teile ich Einblicke in meine Welt der Software, Daten und Künstlichen Intelligenz und nehme dich gerne mit auf meine Reise.
+ich bin Pascal, Tech Lead & Data / AI Specialist, und ich freue mich, dich auf meiner persönlichen Webseite und in meinem Blog begrüßen zu dürfen. Hier teile ich Einblicke in meine Welt der Software, Daten und Künstlichen Intelligenz und nehme dich gerne mit auf meine Reise.
 
 ## Persönliches
 Ich bin in Bremerhaven geboren, einer kleinen Stadt an der Nordsee, und wuchs in einem Vorort auf. Während meiner Schulzeit widmete ich mich intensiv dem Leistungssport Schwimmen und verbrachte einen Großteil meiner Kindheit im Schwimmbad. Ich nahm an Deutschen Meisterschaften und bedeutenden internationalen Wettkämpfen teil, war Mitglied im Landeskader und erhielt ein Sportstipendium der Sparkasse.
